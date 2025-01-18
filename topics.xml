@@ -4,7 +4,7 @@
     <id>https://guides.loc.gov/chronicling-america-christmas-carols</id>
     <results>
       <result>
-	<id>https://www.loc.gov/resource/sn85042399/1917-12-17/ed-1/?sp=8&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn85042399/1917-12-17/ed-1/?sp=8&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>What the Christmas "Waits" Sing
 SANTA CLAUS being about to de
@@ -112,7 +112,7 @@ to touch
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84029386/1916-12-21/ed-1/?sp=5&q=Christmas+Carol&r=-0.086,0.243,0.98,0.862,0</id>
+	<id>https://www.loc.gov/resource/sn84029386/1916-12-21/ed-1/?sp=5&amp;q=Christmas+Carol&amp;r=-0.086,0.243,0.98,0.862,0</id>
 	<rel>1</rel>
 	<text>Four Ancient Christmas Carols
 THE ancient Curlatmng carol
@@ -174,7 +174,7 @@ somewhat la doubt
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn89060136/1925-12-04/ed-1/?sp=2&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn89060136/1925-12-04/ed-1/?sp=2&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>By JOHN DICKINSON SHERMAN
 IS THE Christmas Carol com
@@ -406,7 +406,7 @@ Louis H. Redner, the American.
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn91068423/1922-12-23/ed-1/?sp=1&q=Christmas+Carol&st=text&r=0.66,0.64,0.279,0.49,0</id>
+	<id>https://www.loc.gov/resource/sn91068423/1922-12-23/ed-1/?sp=1&amp;q=Christmas+Carol&amp;st=text&amp;r=0.66,0.64,0.279,0.49,0</id>
 	<rel>1</rel>
 	<text>Monday's Program'
 All groups of carolers are' asked
@@ -433,7 +433,7 @@ the tree and band.
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn86091197/1921-12-19/ed-1/?sp=4&q=Christmas+Carol&st=text&r=0.137,-0.157,0.31,0.545,0</id>
+	<id>https://www.loc.gov/resource/sn86091197/1921-12-19/ed-1/?sp=4&amp;q=Christmas+Carol&amp;st=text&amp;r=0.137,-0.157,0.31,0.545,0</id>
 	<rel>1</rel>
 	<text>CHRISTMAS CAROL
 Music and Song Always Associ
@@ -526,7 +526,7 @@ almost a thing of the past.—Tit Bits.
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84026749/1919-12-11/ed-1/?sp=10&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn84026749/1919-12-11/ed-1/?sp=10&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>CHRISTMAS CAROL
 SINGING REVIVAL
@@ -611,7 +611,7 @@ dome of the nation's Capitol.
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83030214/1914-12-20/ed-1/?sp=25&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn83030214/1914-12-20/ed-1/?sp=25&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>The CltBSfJ Tree arol.
 Ws ?re in the midst of a r<
@@ -842,7 +842,7 @@ Our Heavenly King"
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83030214/1907-12-22/ed-1/?sp=58&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn83030214/1907-12-22/ed-1/?sp=58&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>Timely Musical Comment
 Something About Christmas Ccrols-Opera and Concert News.
@@ -988,12 +988,12 @@ Hone, who refers to it In his book or. English
 	</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85047084/1907-04-14/ed-1/?sp=9&q=Christmas+Carols</id>
+	<id>https://www.loc.gov/resource/sn85047084/1907-04-14/ed-1/?sp=9&amp;q=Christmas+Carols</id>
 	<rel>0</rel>
 	<text></text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn99021999/1904-12-25/ed-1/?sp=25&q=Christmas+Carols</id>
+	<id>https://www.loc.gov/resource/sn99021999/1904-12-25/ed-1/?sp=25&amp;q=Christmas+Carols</id>
 	<rel>1</rel>
 	<text>H
 it'SH! Listen to the music! K Is the Christmas
@@ -1022,7 +1022,7 @@ waits of other countries.
 And who. If you please, are the Christmas fairies?</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn88084272/1916-12-23/ed-1/?sp=5&q=Christmas+Carol&r=0.03%2C-0.061%2C0.861%2C0.758%2C0&st=text</id>
+	<id>https://www.loc.gov/resource/sn88084272/1916-12-23/ed-1/?sp=5&amp;q=Christmas+Carol&amp;r=0.03%2C-0.061%2C0.861%2C0.758%2C0&amp;st=text</id>
 	<rel>1</rel>
 	<text>Prelude. "Angel's Message," Braga,
 and "Christmas Blossoms." Langey, or
@@ -1067,14 +1067,14 @@ Power of Jesus" Name," congregation:
 benediction.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn92067236/1915-12-23/ed-1/?sp=1&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn92067236/1915-12-23/ed-1/?sp=1&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>Recitation Jersie Alameda
 Song—“A Christmas Carol"—School
 Third Grade—Miss Thode, Teacher.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn88086023/1906-12-25/ed-1/?sp=2&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn88086023/1906-12-25/ed-1/?sp=2&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>BEGINNING OF THE
 CHRISTMAS CAROL.
@@ -1149,7 +1149,7 @@ highest rank In music. New Tork
 Telegram.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85025570/1920-12-08/ed-1/?sp=6&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn85025570/1920-12-08/ed-1/?sp=6&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>First Xmas Carol
 Found in the
@@ -1188,7 +1188,7 @@ mans is one written by Martin Luther
 for his little son Hans.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85038485/1913-12-18/ed-1/?sp=4&q=Christmas+Carol</id>
+	<id>https://www.loc.gov/resource/sn85038485/1913-12-18/ed-1/?sp=4&amp;q=Christmas+Carol</id>
 	<rel>1</rel>
 	<text>THE CHRISTMAS CAROL.
 From the Philadelphia Inquirer.
@@ -1246,7 +1246,7 @@ name.”</text>
     <id>https://guides.loc.gov/chronicling-america-mothers-day</id>
     <results>
       <result>
-	<id>https://www.loc.gov/resource/sn96027111/1909-04-30/ed-1/?sp=2&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn96027111/1909-04-30/ed-1/?sp=2&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>t la fate notice General Allen says A
 treat movement has been inaugurated
@@ -1350,7 +1350,7 @@ I izing charity and faithfulness a
 l true mothers virtues</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84026749/1909-05-09/ed-1/?sp=8&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn84026749/1909-05-09/ed-1/?sp=8&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>MOTHERS DAY IN BOSTON BOSTONBOSTON BOSTONBOSTON BOSTONBOSTON
 BOSTON May Ia 3 9Boston Boston responded respondednobly rMpondednobly nespondnobly
@@ -1364,7 +1364,7 @@ hardworking railroad and street car caremployes caromployes ca r romployas
 employes employes</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85066387/1912-05-11/ed-1/?sp=1&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn85066387/1912-05-11/ed-1/?sp=1&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>Sons and Daughters Unite to
 Commemorate Mothers'
@@ -1416,7 +1416,7 @@ a change and give her the benefit
 of her holiday.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn86063381/1912-05-11/ed-1/?sp=2&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn86063381/1912-05-11/ed-1/?sp=2&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>Wear a Flower.
 "White flower for Mother dead
@@ -1453,12 +1453,12 @@ a flower tomorrow, white or bright,
 world, your mother."</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85038615/1912-05-12/ed-1/?sp=14&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn85038615/1912-05-12/ed-1/?sp=14&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>0</rel>
 	<text></text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84026749/1914-05-07/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn84026749/1914-05-07/ed-1/?sp=7&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>FOUNDED A HOLIDAY
 MISS ANNA JARVIS,
@@ -1467,7 +1467,7 @@ Philadelphia woman, who originated
 recognition for it.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045433/1914-05-10/ed-1/?sp=3&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn83045433/1914-05-10/ed-1/?sp=3&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>Wear a White Carnation
 President Is Highly Praised
@@ -1519,7 +1519,7 @@ ers' Day-"
 'Mothers' Day." </text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>Older Tlian Christianity
 Tho celebration of Mothers' Day,
@@ -1566,7 +1566,7 @@ days tho mothers' blosslng was highly
 regarded.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045211/1916-06-29/ed-1/?sp=10&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn83045211/1916-06-29/ed-1/?sp=10&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>FOUNDER OF "MOTHERS' DAY"
 THANKS AD MEN FOR CO-OPERATION
@@ -1618,7 +1618,7 @@ second Sunday of May, and letters or acts
 of affection to homes, etc., </text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn95060583/1922-05-18/ed-1/?sp=7&q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
+	<id>https://www.loc.gov/resource/sn95060583/1922-05-18/ed-1/?sp=7&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day</id>
 	<rel>1</rel>
 	<text>By JOHN DICKINSON SHERMAN
 OTHER'S Day should be
@@ -1637,7 +1637,7 @@ nature, every day isn't observed as
 Mother's Day. </text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045462/1943-05-08/ed-1/?sp=19&q=Mothers+Day</id>
+	<id>https://www.loc.gov/resource/sn83045462/1943-05-08/ed-1/?sp=19&amp;q=Mothers+Day</id>
 	<rel>1</rel>
 	<text>'Secret of Happy Home'
 Mother's Day will be observed at
@@ -1653,7 +1653,7 @@ annual Mother's Day program on
 the campus.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045462/1928-05-12/ed-1/?sp=11&q=Mothers+Day</id>
+	<id>https://www.loc.gov/resource/sn83045462/1928-05-12/ed-1/?sp=11&amp;q=Mothers+Day</id>
 	<rel>1</rel>
 	<text>An
 nounces Special Mother's
@@ -1669,7 +1669,7 @@ ha will speak on “Anger," one of the
 ■even deadly sins.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045462/1940-05-12/ed-1/?sp=86&q=Mothers+Day</id>
+	<id>https://www.loc.gov/resource/sn83045462/1940-05-12/ed-1/?sp=86&amp;q=Mothers+Day</id>
 	<rel>1</rel>
 	<text>That was the first organized Mother s Day. And all over
 the world today, the millions who will observe this Mother 's
@@ -1682,7 +1682,7 @@ Anna Jarvis was not even bom when her mother held
 that picnic.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045462/1944-05-11/ed-1/?sp=15&q=Mothers+Day</id>
+	<id>https://www.loc.gov/resource/sn83045462/1944-05-11/ed-1/?sp=15&amp;q=Mothers+Day</id>
 	<rel>1</rel>
 	<text>MOTHER'S DAY, SUNDAY MAY
 A Fragrant Gift Suggestion!
@@ -1690,7 +1690,7 @@ ROGER GALLET SOAP
 Cakes</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045462/1938-05-07/ed-1/?sp=13&q=Mothers+Day</id>
+	<id>https://www.loc.gov/resource/sn83045462/1938-05-07/ed-1/?sp=13&amp;q=Mothers+Day</id>
 	<rel>1</rel>
 	<text>MORNING SERVICES
 WILL BE IDENTICAL
@@ -1724,7 +1724,7 @@ Sanders will sing.</text>
     <id>https://guides.loc.gov/chronicling-america-april-fools</id>
     <results>
       <result>
-	<id>https://www.loc.gov/resource/sn85034039/1871-04-21/ed-1/?sp=1&q=april+fools+pranks</id>
+	<id>https://www.loc.gov/resource/sn85034039/1871-04-21/ed-1/?sp=1&amp;q=april+fools+pranks</id>
 	<rel>1</rel>
 	<text>All Fools' Day nt
 C'aayoti
@@ -1740,7 +1740,7 @@ party of thoso dUcousnlato chap wero
 engaged In Iho pastime mentioned. </text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84026994/1873-04-01/ed-1/?sp=2&q=april+pranks+fools</id>
+	<id>https://www.loc.gov/resource/sn84026994/1873-04-01/ed-1/?sp=2&amp;q=april+pranks+fools</id>
 	<rel>1</rel>
 	<text>April Fool.
 The origin or "April Fool" ia as remote
@@ -1768,7 +1768,7 @@ of this giant Harlequin, on whose kingdom
 tbe Ban never sets.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn82014635/1894-04-01/ed-1/?sp=11&q=april+fools+pranks</id>
+	<id>https://www.loc.gov/resource/sn82014635/1894-04-01/ed-1/?sp=11&amp;q=april+fools+pranks</id>
 	<rel>1</rel>
 	<text>ON ALL FOOL'S BAT
 i
@@ -1813,7 +1813,7 @@ parraental caudals during the Feast of
 All Fools.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84024442/1896-03-29/ed-1/?sp=17&q=april+fools+pranks</id>
+	<id>https://www.loc.gov/resource/sn84024442/1896-03-29/ed-1/?sp=17&amp;q=april+fools+pranks</id>
 	<rel>1</rel>
 	<text>Some Ancient and Honorable April Fool Jokes.
 Uie little stranger Into the street. There
@@ -1829,7 +1829,7 @@ Uie wall a strange bcroll in the Kalorama
 dialect.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85066387/1899-04-02/ed-1/?sp=11&q=april+fool+pranks</id>
+	<id>https://www.loc.gov/resource/sn85066387/1899-04-02/ed-1/?sp=11&amp;q=april+fool+pranks</id>
 	<rel>1</rel>
 	<text>APRIL CALLED
 OUT ALL ITS
@@ -1854,7 +1854,7 @@ out In splendid form and landed gudgeons
 galore.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85066387/1900-04-01/ed-1/?sp=4&q=april+fool+pranks</id>
+	<id>https://www.loc.gov/resource/sn85066387/1900-04-01/ed-1/?sp=4&amp;q=april+fool+pranks</id>
 	<rel>1</rel>
 	<text>Concerning the origin of the name and custom of All fool's day
 contributed more to the extermination of
@@ -1879,7 +1879,7 @@ Jewish Origin of the Custom of Making
 Fools on the First of April.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84028140/1902-04-01/ed-1/?sp=3&q=april+fool+pranks</id>
+	<id>https://www.loc.gov/resource/sn84028140/1902-04-01/ed-1/?sp=3&amp;q=april+fool+pranks</id>
 	<rel>1</rel>
 	<text>April Fool Kept by All
 People.
@@ -1909,7 +1909,7 @@ Hull, which coincides vjlth our April
 Fool.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn88085187/1909-04-01/ed-1/?sp=1&q=april+fools+pranks</id>
+	<id>https://www.loc.gov/resource/sn88085187/1909-04-01/ed-1/?sp=1&amp;q=april+fools+pranks</id>
 	<rel>1</rel>
 	<text>APRIL FOOL HUNTERS ARE
 ON THE JOB TODAY
@@ -1926,7 +1926,7 @@ the "April Fool H tinnt«rs s» gen
 smlly tharmless.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85066387/1911-04-02/ed-1/?sp=1&q=april+fools+pranks&r=-0.383,-0.055,1.769,1.556,0</id>
+	<id>https://www.loc.gov/resource/sn85066387/1911-04-02/ed-1/?sp=1&amp;q=april+fools+pranks&amp;r=-0.383,-0.055,1.769,1.556,0</id>
 	<rel>1</rel>
 	<text>The San Francisco
 SUNDAY
@@ -1935,7 +1935,7 @@ CALL
 Aprill Fool</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn89066313/1915-04-01/ed-1/?sp=1&q=april+foolls+prank</id>
+	<id>https://www.loc.gov/resource/sn89066313/1915-04-01/ed-1/?sp=1&amp;q=april+foolls+prank</id>
 	<rel>1</rel>
 	<text>JOKERS ANNIHILATE ARMIES
 April-Fool Pranks Play Havoc With
@@ -1964,7 +1964,7 @@ The havoc Is attributed to some
 April Fool prank.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn85038485/1913-03-30/ed-1/?sp=40&q=April+fools</id>
+	<id>https://www.loc.gov/resource/sn85038485/1913-03-30/ed-1/?sp=40&amp;q=April+fools</id>
 	<rel>1</rel>
 	<text>APRIL FOOL’S DAY LEGENDS
 THAT ARE CENTURIES OLD
@@ -1985,7 +1985,7 @@ Mr. Smarty, you're the one April
 Fooled this time, not I!"</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83045462/1956-04-01/ed-1/?sp=75&q=April+fools</id>
+	<id>https://www.loc.gov/resource/sn83045462/1956-04-01/ed-1/?sp=75&amp;q=April+fools</id>
 	<rel>1</rel>
 	<text>Don't Cause Any Hard Feelings
 By Overdoing April Fool Jokes
@@ -2008,7 +2008,7 @@ April fish are so young that
 they are easily caught. </text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn84036286/1934-03-28/ed-1/?sp=7&q=April+fools&st=text&r=-0.285,-0.078,1.569,1.569,0</id>
+	<id>https://www.loc.gov/resource/sn84036286/1934-03-28/ed-1/?sp=7&amp;q=April+fools&amp;st=text&amp;r=-0.285,-0.078,1.569,1.569,0</id>
 	<rel>1</rel>
 	<text>In 1899 It was one day off that schedule and
 Easter Sunday In that year came on April 2.
@@ -2024,7 +2024,7 @@ lar origins—religious festivals among the an
 cients celebrating the coming of spring.</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn82014635/1899-04-02/ed-1/?sp=13&q=April+fools</id>
+	<id>https://www.loc.gov/resource/sn82014635/1899-04-02/ed-1/?sp=13&amp;q=April+fools</id>
 	<rel>1</rel>
 	<text>APRIL FOOL'S DAT.
 Tcsterday was April Fool's day. People
@@ -2051,7 +2051,7 @@ Their Vote a Factor in
 the Coming Race</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn86058242/1910-04-02/ed-1/?sp=7&q=April+fools&st=text&r=-0.185,-0.069,1.37,1.37,0</id>
+	<id>https://www.loc.gov/resource/sn86058242/1910-04-02/ed-1/?sp=7&amp;q=April+fools&amp;st=text&amp;r=-0.185,-0.069,1.37,1.37,0</id>
 	<rel>1</rel>
 	<text>LET US HAVE A SAFE
 Ai SHOE APRIL FOOL'S DAY
